@@ -24,7 +24,6 @@ void display(int xa, int ya, int xb, int yb) {
 		y += yincrement;
 		setPixel(x, y);
 	}
-	glFlush();
 }
 void d() {
 	display(0, 0, 40, 60);
