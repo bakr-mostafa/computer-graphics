@@ -1,2 +1,2 @@
 # computer-graphics
-This repository contain OpenGL programs using C++
+The repository contains OpenGL programs using C++
